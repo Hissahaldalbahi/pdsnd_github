@@ -7,10 +7,10 @@
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
+in this project i use pandas and numpy python library.
 
 ### Files used
-I use python space work in udacity.
+Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
